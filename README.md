@@ -25,7 +25,8 @@ A Creative is a unit of advertising to create a single exposure. Creatives are s
 * 1080x1920 (1080p landscape - can be upscaled to 4K or downscaled to 768x1366, 720x1280)
 * 1920x1080 (1080p portrait - can be upscaled to 4K or downscaled to 1366x768, 1280x720)
 * 1024x768 (landscape - can be downscaled to 800x600, 640x480)
-* 1400x400 (landscape - can be downscaled to 720x208, 560x160)
+* 1400x400 (landscape - can be upscaled to 1920x540 or downscaled to 720x208, 560x160)
+* 840x400 (landscape)
 
 Handling mis-matches. Upscaling or downsampling 250?-50?% of the original resolution is an acceptable way for publishers to handle mis-matches between a creatives resolution and native screen resolution w/o prior coordination with buyers
 
@@ -36,7 +37,7 @@ Handling mis-matches. Upscaling or downsampling 250?-50?% of the original resolu
 * 4x3
 * 7x2
 
-Handling mis-matches. Letterboxing up to 10%? of the area of a screen is an acceptable way for publishers to handle mis-matches between creative and native screen sizes w/o prior coordination with buyers.
+Handling mis-matches. Letterboxing up to 10%? of the area of a screen is an acceptable way for publishers to handle mis-matches between creative and native screen sizes w/o prior coordination with buyers. Cropping creatives is *not* an acceptable way to handle mis-matches.
 
 ### Duration
 
