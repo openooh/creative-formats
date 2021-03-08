@@ -1,7 +1,8 @@
 # creative-formats
-Working standards around OOH creative formats
 
-(DRAFT)
+----
+(DRAFT) Working standards around OOH creative formats
+----
 
 Goals:
 * Reduce the difficulty of larger buys in OOH (esp. multi-publisher)
